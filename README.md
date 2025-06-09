@@ -1,4 +1,4 @@
-# Simple React Login Page
+# Template React Login Page for Minh
 
 This is a minimal login page built using [React](https://reactjs.org/) and [Vite](https://vitejs.dev/). It features a centered sign-in form with email and password fields.
 
@@ -22,5 +22,7 @@ This is a minimal login page built using [React](https://reactjs.org/) and [Vite
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/simple-login-page.git
-cd simple-login-page
+git clone https://github.com/cozloff/quick_start.git
+cd signin-app
+npm install
+npm run dev
