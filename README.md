@@ -23,6 +23,6 @@ This is a minimal login page built using [React](https://reactjs.org/) and [Vite
 
 ```bash
 git clone https://github.com/cozloff/quick_start.git
-cd signin-app
+cd quick_start
 npm install
 npm run dev
